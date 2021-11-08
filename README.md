@@ -13,8 +13,8 @@
 
 ## Live Demo
 
-<!-- - [Math Magicians-Netlify](https://math-magicians-react.netlify.app/)
-- [Math Magicians-Heroku](https://mathmagician-react-app.herokuapp.com/) -->
+[Counter App-Netlify](https://redux-counter-appp.netlify.app/)
+
 
 ## Setup
 - Clone this project
