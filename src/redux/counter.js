@@ -1,7 +1,7 @@
 /** @format */
 
-export const INCREASE = 'INCREASE';
-export const DECREASE = 'DECREASE';
+export const INCREASE = 'redux-counter/counter/increase';
+export const DECREASE = 'redux-counter/counter/decrease';
 
 
 const defaultState = 0;

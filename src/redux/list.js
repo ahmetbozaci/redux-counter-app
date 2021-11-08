@@ -1,4 +1,4 @@
-export const LIST_ADD = 'counter/list/LIST_ADD';
+export const LIST_ADD = 'redux-counter/list/LIST_ADD';
 
 const defaultState = [];
 
