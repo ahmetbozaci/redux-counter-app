@@ -2,8 +2,9 @@
 
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { increase, decrease } from '../store/actions/counter';
-import { add } from '../store/actions/list';
+import { increase, decrease } from '../redux/counter'
+import { add } from '../redux/list';
+
 const Buttons = () => {
   const dispatch = useDispatch();
   const {counter} = useSelector((state) => state);
